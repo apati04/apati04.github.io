@@ -1,0 +1,13 @@
+title: My Blog
+author: Andrew Patipaksiri
+email: apax714@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  My Blog
+github_username: apati04
+
+# Build settings
+markdown: kramdown
+theme: minima
+exclude:
+  - Gemfile
+  - Gemfile.lock
